@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning computer science
 - 💞️ I’m looking to collaborate on real projects of development
 - 📫 How to reach me: sidimohamedsy760@gmail.com
-- 😄 Pronouns: Ce
+- 😄 Pronouns: Il
 - ⚡ Fun fact: jeu
 
 <!---
